@@ -1,0 +1,25 @@
+body{
+  width:90vw;
+  margin:auto;
+  text-align:center;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  background-color: gray;
+}
+
+div{
+  width: 40%;
+  height: 30%;
+  margin: 10px;
+}
+img {
+  width:100%;
+  height: auto;
+}
+
+@media(max-width:495px){
+  div {
+    width:70%;
+  }
+}
