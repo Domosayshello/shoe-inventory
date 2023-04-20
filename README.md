@@ -1,1 +1,1 @@
-# shoe-inventory
+# vinyl-inventory
